@@ -8,7 +8,7 @@
   
 	<name>maven-compiler-plugin</name>
   <!-- FIXME change it to the project's website -->
-  <url>http://maven.apache.org</url>
+  <url>https://fathomless-wildwood-80204.herokuapp.com/</url>
 <dependencies>
 		<dependency>
 			<groupId>junit</groupId>
